@@ -88,7 +88,7 @@ c.close()
 
 ## Output
 
-<img width="1576" height="428" alt="OutputScreenshot" src="https://github.com/user-attachments/assets/5fe2d1ed-c58a-40b2-b702-3522b9db4f78" />
+<img width="1383" height="361" alt="image" src="https://github.com/user-attachments/assets/e1a65cef-67d1-4865-bc17-98d17e05c2c5" />
 
 
 ## Result
